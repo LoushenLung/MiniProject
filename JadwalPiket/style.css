@@ -1,0 +1,13 @@
+body {
+
+    font-family: Arial, sans-serif;
+    background-color: #f7fafc; /* Light gray background */
+}
+
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full viewport height */
+    background-color: rgb(198, 196, 193);
+}
